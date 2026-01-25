@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Moonwave (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Moonwave (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
